@@ -1,0 +1,301 @@
+html{
+	background-color: aquamarine;
+}
+
+.profilepic1 {
+	height: 25%;
+	width: auto;
+}
+
+#intro {
+	font-size: 14pt;
+}
+
+#name {
+	font-size: 16pt;
+	font-style: georgia;
+}
+
+#interest {
+	font-size: 18pt;
+	text-align: center;
+	font-family: georgia;
+	margin-left: 20px;
+	padding-left: 5px;
+}
+
+#i-list{
+	text-align: justify-all;
+	display: block;
+}
+
+#banner-pic {
+	height: 10%;
+}
+
+.navbar_navbar-default {
+	border-bottom: 10%;
+	background-color: lightgrey;
+}
+
+#intro,#portfolio,#Contact {
+	font-size: 16pt;
+	font-style: georgia;
+	padding: 5px;
+	border-bottom: 5px;
+}
+
+#LinkedIn {
+	margin-left: 10px;
+}
+
+footer {
+	border: 10px;
+	padding: 5px;
+	float: bottom;
+	background-color: #42f4b9;
+}
+
+/*desktop view test*/
+@media only screen and (max-width:1086px) {
+
+	html {
+		background-color: #42f4b9;
+	}
+
+	.profilepic1 {
+		height: 25%;
+		width: auto;
+	}
+
+	#intro {
+		font-size: 12pt;
+	}
+	#name {
+	font-size: 16pt;
+	font-style: georgia;
+}
+
+	#interest {
+		font-size: 18pt;
+		text-align: center;
+		font-family: georgia;
+		margin-left: 20px;
+		padding-left: 5px;
+	}
+
+	#i-list{
+		text-align: justify-all;
+		display: block;
+	}
+
+	#banner-pic {
+		height: 10%;
+	}
+
+	.navbar_navbar-default {
+		border-bottom: 10%;
+		background-color: lightgrey;
+	}
+
+	#intro,#portfolio,#Contact {
+		font-size: 16pt;
+		font-style: georgia;
+		padding: 5px;
+		border-bottom: 5px;
+	}
+
+	#LinkedIn {
+		margin-left: 10px;
+	}
+	footer {
+		border: 10px;
+		padding: 5px;
+		background-color: #42f4b9;
+	}
+
+}
+
+
+
+/*laptop view test*/
+@media only screen and (max-width:980px) {
+
+	html {
+		background-color: #42f4a1;
+	}
+
+	.profilepic1 {
+		height: 25%;
+		width: auto;
+	}
+
+	#intro {
+		font-size: 12pt;
+	}
+	#name {
+	font-size: 16pt;
+	font-style: georgia;
+}
+
+	#interest {
+		font-size: 18pt;
+		text-align: center;
+		font-family: georgia;
+		margin-left: 20px;
+		padding-left: 5px;
+	}
+
+	#i-list{
+		text-align: justify-all;
+		display: block;
+	}
+
+	#banner-pic {
+		height: 8%;
+	}
+
+	.navbar_navbar-default {
+		border-bottom: 10%;
+		background-color: lightgrey;
+	}
+
+	#intro,#portfolio,#Contact {
+		font-size: 16pt;
+		font-style: georgia;
+		padding: 5px;
+		border-bottom: 5px;
+	}
+
+	#LinkedIn {
+		margin-left: 10px;
+	}
+
+	footer {
+		border: 10px;
+		padding: 5px;
+		background-color: #42f486;
+	}
+
+}
+
+/*tablet view test*/
+@media only screen and (max-width:768px) {
+
+		html {
+		background-color: #42f4a1;
+	}
+
+	.profilepic1 {
+		height: 25%;
+		width: auto;
+	}
+
+	#intro {
+		font-size: 12pt;
+	}
+	#name {
+	font-size: 16pt;
+	font-style: georgia;
+}
+
+	#interest {
+		font-size: 18pt;
+		text-align: center;
+		font-family: georgia;
+		margin-left: 20px;
+		padding-left: 5px;
+	}
+
+	#i-list{
+		text-align: justify-all;
+		display: block;
+	}
+
+	#banner-pic {
+		height: 8%;
+	}
+
+	.navbar_navbar-default {
+		border-bottom: 10%;
+		background-color: lightgrey;
+	}
+
+	#intro,#portfolio,#Contact {
+		font-size: 16pt;
+		font-style: georgia;
+		padding: 5px;
+		border-bottom: 5px;
+	}
+
+	#LinkedIn {
+		margin-left: 10px;
+	}
+
+	footer {
+		border: 10px;
+		padding: 5px;
+		background-color: #41f468;
+	}
+}
+
+/*phone view test*/
+@media only screen and (max-width:640px) {
+
+			html {
+		background-color: #42f4a1;
+	}
+
+	.profilepic1 {
+		height: 25%;
+		width: auto;
+	}
+
+	#intro {
+		font-size: 12pt;
+	}
+	#name {
+	font-size: 16pt;
+	font-style: georgia;
+}
+
+	#interest {
+		font-size: 18pt;
+		text-align: center;
+		font-family: georgia;
+		margin-left: 20px;
+		padding-left: 5px;
+	}
+
+	#i-list{
+		text-align: justify-all;
+		display: block;
+	}
+
+	#banner-pic {
+		height: 8%;
+	}
+
+	.navbar_navbar-default {
+		border-bottom: 10%;
+		background-color: lightgrey;
+	}
+
+	#intro,#portfolio,#Contact {
+		font-size: 16pt;
+		font-style: georgia;
+		padding: 5px;
+		border-bottom: 5px;
+	}
+
+	#LinkedIn {
+		margin-left: 10px;
+	}
+
+	footer {
+		border: 10px;
+		padding: 5px;
+		background-color: #41f444;
+	}
+
+}
